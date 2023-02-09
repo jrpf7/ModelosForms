@@ -2,7 +2,7 @@ using OrdemDeProducao.Forms;
 using System;
 using System.Windows.Forms;
 
-namespace OrdemDeProducao
+namespace ModelosForms
 {
     static class Program
     {
