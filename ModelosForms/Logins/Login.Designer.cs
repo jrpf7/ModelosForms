@@ -105,7 +105,7 @@ namespace OrdemDeProducao.Forms
             // 
             // btnLogin
             // 
-            this.btnLogin.BackColor = System.Drawing.Color.DarkSlateGray;
+            this.btnLogin.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(54)))), ((int)(((byte)(95)))), ((int)(((byte)(227)))));
             this.btnLogin.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnLogin.FlatAppearance.BorderSize = 0;
             this.btnLogin.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -152,7 +152,7 @@ namespace OrdemDeProducao.Forms
             this.btnSair.FlatAppearance.BorderSize = 2;
             this.btnSair.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnSair.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.btnSair.ForeColor = System.Drawing.Color.DarkSlateGray;
+            this.btnSair.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(54)))), ((int)(((byte)(95)))), ((int)(((byte)(227)))));
             this.btnSair.Location = new System.Drawing.Point(42, 313);
             this.btnSair.Name = "btnSair";
             this.btnSair.Size = new System.Drawing.Size(237, 29);

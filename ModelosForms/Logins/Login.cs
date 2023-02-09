@@ -61,7 +61,7 @@ namespace OrdemDeProducao.Forms
         {
             try
             {
-                pnlUsuario.BackColor = Color.DarkSlateGray;
+                pnlUsuario.BackColor = Color.FromArgb(54, 95, 227);
 
                 if (txtUsuario.Text.Equals("USUÁRIO"))
                     txtUsuario.Clear();
@@ -77,7 +77,7 @@ namespace OrdemDeProducao.Forms
             try
             {
                 txtSenha.PasswordChar = '•';
-                pnlSenha.BackColor = Color.DarkSlateGray;
+                pnlSenha.BackColor = Color.FromArgb(54, 95, 227);
 
                 if (txtSenha.Text.Equals("SENHA"))
                     txtSenha.Clear();
